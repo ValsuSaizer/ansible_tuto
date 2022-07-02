@@ -1,0 +1,5 @@
+- name: install samba package (same for AlmaLinux and Ubuntu)
+  tags: samba
+  package:
+    name: samba
+    state: latest
