@@ -1,5 +1,4 @@
 # ansible_tuto
 
 
-blablabla
-blablabla2
+First try following LearnLinux TV tutos serie on Ansible.
